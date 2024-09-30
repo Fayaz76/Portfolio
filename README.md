@@ -71,7 +71,7 @@
                     </div>
                     
    <div>
-                        <h2 class="about__subtitle">I'am Divya</h2>
+                        <h2 class="about__subtitle">I'am Fayaz</h2>
                         <p class="about__text">a dedicated and passionate web developer. with a keen eye for design and a commitment to creating engaging and user-friendly websites. </p>           
                     </div>                                   
                 </div>
