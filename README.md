@@ -15,7 +15,7 @@
         <header class="l-header">
             <nav class="nav bd-grid">
                 <div>
-                    <a href="#" class="nav__logo">Divya</a>
+                    <a href="#" class="nav__logo">Fayaz</a>
                 </div>
 
    <div class="nav__menu" id="nav-menu">
@@ -38,7 +38,7 @@
             <!--===== HOME =====-->
             <section class="home bd-grid" id="home">
                 <div class="home__data">
-                    <h1 class="home__title">Hi,<br>I'am <span class="home__title-color">Divya</span><br> Web Designer</h1>
+                    <h1 class="home__title">Hi,<br>I'am <span class="home__title-color">Fayaz</span><br> Web Designer</h1>
 
    <a href="#" class="button">Contact</a>
                 </div>
